@@ -1,0 +1,4 @@
+# FOR DATABASE BACKUPS
+- mkdir database && cd database
+- mkdir backups && mkdir logs
+- cd logs && touch backup.log
